@@ -1,0 +1,67 @@
+/*  ----------------------------------------------------------------------------
+    responsive settings
+*/
+/* responsive landscape tablet */
+/* responsive portrait tablet */
+/* responsive portrait phone */
+.mx_image_background {
+  background-color: #f2f2f2;
+}
+.td-visibility-hidden {
+  visibility: hidden;
+}
+/*  ----------------------------------------------------------------------------
+    from bootstrap
+*/
+.clearfix {
+  *zoom: 1;
+}
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: '';
+  line-height: 0;
+}
+.clearfix:after {
+  clear: both;
+}
+/*
+usage:
+.td-block-row {
+  .mx-row(td-block-span);
+}
+
+@all_span_selector - is the begining of the span selector
+ */
+/* Premium demo */
+.td-ionmag-premium-magazine .block-title {
+  text-align: center;
+  float: none;
+}
+.td-ionmag-premium-magazine .block-title:after {
+  right: 0;
+  margin: auto;
+  height: 2px;
+  opacity: 0.7;
+}
+.td-ionmag-premium-magazine .entry-title:after {
+  height: 2px;
+  opacity: 0.4;
+}
+.td-ionmag-premium-magazine .td-related-title .td-cur-simple-item:after,
+.td-ionmag-premium-magazine .td-comments-title-wrap h4:after,
+.td-ionmag-premium-magazine .comment-reply-title:after,
+.td-ionmag-premium-magazine .td-category-header .entry-title:after,
+.td-ionmag-premium-magazine .td_block_author .td-author-name:after,
+.td-ionmag-premium-magazine .td-author-header .entry-title:after,
+.td-ionmag-premium-magazine .td-author-name:after {
+  height: 2px !important;
+}
+.td-ionmag-premium-magazine .td-post-template-rd-13 .entry-title,
+.td-ionmag-premium-magazine .td_module_rd_6 .entry-title,
+.td-ionmag-premium-magazine .td_module_rd_12 .entry-title,
+.td-ionmag-premium-magazine .td_module_rd_13 .entry-title,
+.td-ionmag-premium-magazine .td_module_mx_rd_bl_3 .entry-title,
+.td-ionmag-premium-magazine .td_module_mx_rd_bl_2 .entry-title {
+  text-transform: uppercase;
+}

@@ -1,0 +1,1232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-05-03T10:12:54-04:00\n"
+"POT-Creation-Date: 2017-05-03T10:12:54-04:00\n"
+
+#: campus-directory/campus-directory.php:78
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: campus-directory/campus-directory.php:248
+msgid "CampusDirectory"
+msgstr ""
+
+#: campus-directory/campus-directory.php:252
+msgid "Getting Started"
+msgstr ""
+
+#: campus-directory/campus-directory.php:253
+msgid "Glossary"
+msgstr ""
+
+#: campus-directory/campus-directory.php:257
+msgid "Settings"
+msgstr ""
+
+#: campus-directory/campus-directory.php:261
+msgid "Add-Ons"
+msgstr ""
+
+#: campus-directory/campus-directory.php:265
+msgid "Designs"
+msgstr ""
+
+#: campus-directory/campus-directory.php:269
+msgid "Support"
+msgstr ""
+
+#: campus-directory/campus-directory.php:286
+msgid "Licenses"
+msgstr ""
+
+#: campus-directory/forms/people-search.php:36
+msgid "First Name"
+msgstr ""
+
+#: campus-directory/forms/people-search.php:39
+msgid "First Name field is required"
+msgstr ""
+
+#: campus-directory/forms/people-search.php:58
+msgid "Last Name"
+msgstr ""
+
+#: campus-directory/forms/people-search.php:61
+msgid "Last Name field is required"
+msgstr ""
+
+#: campus-directory/forms/people-search.php:80
+msgid "Person Type"
+msgstr ""
+
+#: campus-directory/forms/people-search.php:83
+msgid "Person Type field is required"
+msgstr ""
+
+#: campus-directory/forms/people-search.php:104
+msgid "Office"
+msgstr ""
+
+#: campus-directory/forms/people-search.php:107
+msgid "Office field is required"
+msgstr ""
+
+#: campus-directory/forms/people-search.php:126
+msgid "Email"
+msgstr ""
+
+#: campus-directory/forms/people-search.php:129
+msgid "Email field is required"
+msgstr ""
+
+#: campus-directory/forms/people-search.php:148
+msgid "Academic Area"
+msgstr ""
+
+#: campus-directory/forms/people-search.php:150
+msgid "Academic area of expertise"
+msgstr ""
+
+#: campus-directory/forms/people-search.php:152
+msgid "Academic Area field is required"
+msgstr ""
+
+#: campus-directory/forms/people-search.php:171
+msgid "Research Area"
+msgstr ""
+
+#: campus-directory/forms/people-search.php:174
+msgid "Research Area field is required"
+msgstr ""
+
+#: campus-directory/forms/people-search.php:193
+msgid "Directory Tag"
+msgstr ""
+
+#: campus-directory/forms/people-search.php:195
+msgid "Generic taxonomy which binds people, courses and publications together."
+msgstr ""
+
+#: campus-directory/forms/people-search.php:197
+msgid "Directory Tag field is required"
+msgstr ""
+
+#: campus-directory/forms/people-search.php:217
+msgid "Please enter the characters with black color in the image above."
+msgstr ""
+
+#: campus-directory/forms/people-search.php:220
+msgid "Security Code field is required"
+msgstr ""
+
+#: campus-directory/includes/admin/getting-started.php:168
+msgid "Welcome to Campus Directory Community %s"
+msgstr ""
+
+#: campus-directory/includes/admin/getting-started.php:172
+msgid "Thanks for activating Campus Directory!"
+msgstr ""
+
+#: campus-directory/includes/admin/getting-started.php:177
+msgid "What's New"
+msgstr ""
+
+#: campus-directory/includes/admin/getting-started.php:178
+msgid "Resources"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:21
+msgid "Integrated information repository for academic people"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:22
+msgid "The below are the definitions of entities, attributes, and terms included in Campus Directory."
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:26
+msgid "People"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:29
+msgid "Any person who is a faculty, graduate or undergraduate student, staff."
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:30
+msgid "Photo"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:31
+msgid "For best results choose a photo close to 150x150px dimensions with crop thumbnail to exact dimensions option selected in WordPress media settings Photo does not have a default value. "
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:34
+msgid " First Name is a required field. Being a unique identifier, it uniquely distinguishes each instance of Person entity. First Name is filterable in the admin area. First Name does not have a default value. "
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:37
+msgid " Last Name is a required field. Being a unique identifier, it uniquely distinguishes each instance of Person entity. Last Name is filterable in the admin area. Last Name does not have a default value. "
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:40
+msgid " Person Type is a required field. Person Type is filterable in the admin area. Person Type does not have a default value. "
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:42
+msgid "Bio"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:43
+msgid " Bio does not have a default value. "
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:46
+msgid " Office is filterable in the admin area. Office does not have a default value. "
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:48
+msgid "Address"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:49
+msgid "The mailing address of this person Address does not have a default value. "
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:52
+msgid " Email is filterable in the admin area. Email does not have a default value. "
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:54
+msgid "Phone"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:55
+msgid " Phone is filterable in the admin area. Phone does not have a default value. "
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:57
+msgid "Website"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:58
+msgid " Website does not have a default value. "
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:60
+msgid "Personal Website"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:61
+msgid " Personal Website does not have a default value. "
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:63
+msgid "Linkedin"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:64
+msgid " Linkedin does not have a default value. "
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:66
+msgid "Twitter"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:67
+msgid " Twitter does not have a default value. "
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:69
+msgid "Curriculum Vitae"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:70
+msgid " Curriculum Vitae does not have a default value. "
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:72
+msgid "Education"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:73
+msgid " Education does not have a default value. "
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:75
+msgid "Awards and Honors"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:76
+msgid " Awards and Honors does not have a default value. "
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:78
+msgid "Academic Appointments"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:79
+msgid " Academic Appointments does not have a default value. "
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:83
+msgid "Generic taxonomy which binds people, courses and publications together. Directory Tag accepts multiple values like tags"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:83
+msgid "Directory Tag does not have a default value"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:83
+msgid "There are no preset values for <b>Directory Tag:</b>"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:88
+msgid "Academic area of expertise Academic Area accepts multiple values like tags"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:88
+msgid "Academic Area does not have a default value"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:88
+msgid "There are no preset values for <b>Academic Area:</b>"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:91
+msgid "Location"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:93
+msgid " Location accepts multiple values like tags"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:93
+msgid "Location does not have a default value"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:93
+msgid "There are no preset values for <b>Location:</b>"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:98
+msgid " Research Area accepts multiple values like tags"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:98
+msgid "Research Area does not have a default value"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:98
+msgid "There are no preset values for <b>Research Area:</b>"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:101
+msgid "Title"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:103
+msgid " Title accepts multiple values like tags"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:103
+msgid "Title does not have a default value"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:103
+msgid "There are no preset values for <b>Title:</b>"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:106
+msgid "Advisor"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:107
+#: campus-directory/includes/admin/glossary.php:110
+#: campus-directory/includes/admin/glossary.php:113
+#: campus-directory/includes/admin/glossary.php:116
+msgid "Allows to display and create connections with People"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:107
+#: campus-directory/includes/admin/glossary.php:110
+#: campus-directory/includes/admin/glossary.php:113
+#: campus-directory/includes/admin/glossary.php:116
+msgid "One instance of People can associated with many instances of People, and vice versa"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:107
+msgid "The relationship can be set up in the edit area of People using Advisor relationship box. "
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:109
+msgid "Supported Faculty"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:110
+#: campus-directory/includes/admin/glossary.php:116
+msgid "The relationship can be set up in the edit area of People using Support Staff relationship box"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:112
+msgid "Advisees"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:113
+msgid "The relationship can be set up in the edit area of People using Advisor relationship box"
+msgstr ""
+
+#: campus-directory/includes/admin/glossary.php:115
+msgid "Support Staff"
+msgstr ""
+
+#: campus-directory/includes/admin/license-functions.php:28
+msgid "Please enter and activate your <b>license keys</b>."
+msgstr ""
+
+#: campus-directory/includes/admin/license-functions.php:79
+msgid "Deactivate License"
+msgstr ""
+
+#: campus-directory/includes/admin/license-functions.php:83
+msgid "Activate License"
+msgstr ""
+
+#: campus-directory/includes/admin/license-functions.php:94
+msgid "Error:"
+msgstr ""
+
+#: campus-directory/includes/admin/license-functions.php:208
+#: campus-directory/includes/admin/license-functions.php:242
+#: campus-directory/includes/admin/license-functions.php:283
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: campus-directory/includes/admin/license-functions.php:220
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: campus-directory/includes/admin/license-functions.php:225
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: campus-directory/includes/admin/license-functions.php:228
+msgid "Invalid license."
+msgstr ""
+
+#: campus-directory/includes/admin/license-functions.php:232
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: campus-directory/includes/admin/license-functions.php:235
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: campus-directory/includes/admin/license-functions.php:239
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: campus-directory/includes/admin/license-functions.php:349
+msgid "Thanks for installing %s. Please <a href=\"%s\">activate your license key</a> before start using."
+msgstr ""
+
+#: campus-directory/includes/admin/license-functions.php:352
+msgid "Please notify the site administrator to activate %s license."
+msgstr ""
+
+#: campus-directory/includes/admin/license-functions.php:357
+msgid "You have invalid or expired license for %s. Please <a href=\"%s\">go to licenses page</a> to correct this issue."
+msgstr ""
+
+#: campus-directory/includes/admin/license-functions.php:360
+msgid "Please notify the site administrator to activate expired or invalid %s license."
+msgstr ""
+
+#: campus-directory/includes/admin/store-functions.php:24
+#: campus-directory/includes/admin/store-functions.php:47
+msgid "Browse All"
+msgstr ""
+
+#: campus-directory/includes/admin/store-functions.php:26
+msgid "The following plugins extend and expand the functionality of your app."
+msgstr ""
+
+#: campus-directory/includes/admin/store-functions.php:49
+msgid "The following <a href=\"%s\" title=\"WP App Studio Prodev\" target=\"_blank\">WP App Studio Prodev</a> plugin designs can be used as a template:"
+msgstr ""
+
+#: campus-directory/includes/admin/store-functions.php:51
+msgid "To customize the functionality of their corresponding plugins"
+msgstr ""
+
+#: campus-directory/includes/admin/store-functions.php:54
+msgid "To create your own plugin"
+msgstr ""
+
+#: campus-directory/includes/admin/store-functions.php:81
+msgid "There was an error retrieving the extensions list from the server. Please try again later."
+msgstr ""
+
+#: campus-directory/includes/admin/store-functions.php:101
+msgid "Thanks for installing %s."
+msgstr ""
+
+#: campus-directory/includes/admin/store-functions.php:101
+msgid "All support requests are accepted through <a href=\"%s\" target=\"_blank\">our support site.</a>"
+msgstr ""
+
+#: campus-directory/includes/admin/store-functions.php:126
+msgid "Like our plugin? Leave us a review"
+msgstr ""
+
+#: campus-directory/includes/class-install-deactivate.php:280
+msgid "Search People"
+msgstr ""
+
+#: campus-directory/includes/class-install-deactivate.php:285
+msgid "People Grid"
+msgstr ""
+
+#: campus-directory/includes/class-install-deactivate.php:298
+msgid "For best results choose a photo close to 150x150px dimensions with crop thumbnail to exact dimensions option selected in WordPress media settings"
+msgstr ""
+
+#: campus-directory/includes/class-install-deactivate.php:336
+msgid "Faculty"
+msgstr ""
+
+#: campus-directory/includes/class-install-deactivate.php:337
+msgid "Graduate Student"
+msgstr ""
+
+#: campus-directory/includes/class-install-deactivate.php:338
+msgid "Staff"
+msgstr ""
+
+#: campus-directory/includes/class-install-deactivate.php:339
+msgid "Undergraduate Student"
+msgstr ""
+
+#: campus-directory/includes/class-install-deactivate.php:373
+msgid "The mailing address of this person"
+msgstr ""
+
+#: campus-directory/includes/class-install-deactivate.php:557
+msgid "Academic Areas"
+msgstr ""
+
+#: campus-directory/includes/class-install-deactivate.php:569
+msgid "Titles"
+msgstr ""
+
+#: campus-directory/includes/class-install-deactivate.php:581
+msgid "Research Areas"
+msgstr ""
+
+#: campus-directory/includes/class-install-deactivate.php:593
+msgid "Locations"
+msgstr ""
+
+#: campus-directory/includes/class-install-deactivate.php:605
+msgid "Directory Tags"
+msgstr ""
+
+#: campus-directory/includes/class-install-deactivate.php:689
+msgid "New To Campus Directory? Review the documentation!"
+msgstr ""
+
+#: campus-directory/includes/class-install-deactivate.php:689
+#: campus-directory/includes/class-install-deactivate.php:701
+msgid "&#187;"
+msgstr ""
+
+#: campus-directory/includes/class-install-deactivate.php:689
+#: campus-directory/includes/class-install-deactivate.php:701
+msgid "Dismiss"
+msgstr ""
+
+#: campus-directory/includes/class-install-deactivate.php:701
+msgid "Upgrade to Professional Version Now!"
+msgstr ""
+
+#: campus-directory/includes/class-install-deactivate.php:707
+msgid "Welcome to Campus Directory"
+msgstr ""
+
+#: campus-directory/includes/class-install-deactivate.php:708
+msgid "Setup Campus Directory Pages"
+msgstr ""
+
+#: campus-directory/includes/class-install-deactivate.php:708
+msgid "Skip setup"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:149
+msgid "Featured Image"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:331
+#: campus-directory/includes/entities/class-emd-person.php:620
+#: campus-directory/includes/entities/class-emd-person.php:659
+#: campus-directory/includes/entities/class-emd-person.php:664
+#: campus-directory/includes/entities/class-emd-person.php:686
+#: campus-directory/includes/entities/class-emd-person.php:691
+msgid "Person"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:332
+msgid "Add New"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:333
+msgid "Add New Person"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:334
+msgid "Edit Person"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:335
+msgid "New Person"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:336
+msgid "All People"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:337
+msgid "View Person"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:339
+msgid "No People Found"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:340
+msgid "No People Found In Trash"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:377
+msgid "Search Titles"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:378
+msgid "Popular Titles"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:379
+#: campus-directory/includes/entities/class-emd-person.php:426
+#: campus-directory/includes/entities/class-emd-person.php:473
+#: campus-directory/includes/entities/class-emd-person.php:520
+#: campus-directory/includes/entities/class-emd-person.php:567
+msgid "All"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:382
+msgid "Edit Title"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:383
+msgid "Update Title"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:384
+msgid "Add New Title"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:385
+msgid "Add New Title Name"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:386
+msgid "Seperate Titles with commas"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:387
+msgid "Add or Remove Titles"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:388
+msgid "Choose from the most used Titles"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:424
+msgid "Search Academic Areas"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:425
+msgid "Popular Academic Areas"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:429
+msgid "Edit Academic Area"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:430
+msgid "Update Academic Area"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:431
+msgid "Add New Academic Area"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:432
+msgid "Add New Academic Area Name"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:433
+msgid "Seperate Academic Areas with commas"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:434
+msgid "Add or Remove Academic Areas"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:435
+msgid "Choose from the most used Academic Areas"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:471
+msgid "Search Locations"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:472
+msgid "Popular Locations"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:476
+msgid "Edit Location"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:477
+msgid "Update Location"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:478
+msgid "Add New Location"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:479
+msgid "Add New Location Name"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:480
+msgid "Seperate Locations with commas"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:481
+msgid "Add or Remove Locations"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:482
+msgid "Choose from the most used Locations"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:518
+msgid "Search Research Areas"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:519
+msgid "Popular Research Areas"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:523
+msgid "Edit Research Area"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:524
+msgid "Update Research Area"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:525
+msgid "Add New Research Area"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:526
+msgid "Add New Research Area Name"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:527
+msgid "Seperate Research Areas with commas"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:528
+msgid "Add or Remove Research Areas"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:529
+msgid "Choose from the most used Research Areas"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:565
+msgid "Search Directory Tags"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:566
+msgid "Popular Directory Tags"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:570
+msgid "Edit Directory Tag"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:571
+msgid "Update Directory Tag"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:572
+msgid "Add New Directory Tag"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:573
+msgid "Add New Directory Tag Name"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:574
+msgid "Seperate Directory Tags with commas"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:575
+msgid "Add or Remove Directory Tags"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:576
+msgid "Choose from the most used Directory Tags"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:625
+msgid "Person Info"
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:661
+#: campus-directory/includes/entities/class-emd-person.php:666
+#: campus-directory/includes/entities/class-emd-person.php:688
+#: campus-directory/includes/entities/class-emd-person.php:693
+msgid "No People found."
+msgstr ""
+
+#: campus-directory/includes/entities/class-emd-person.php:770
+msgid "Operations"
+msgstr ""
+
+#: campus-directory/includes/forms.php:119
+msgid "First Name is required"
+msgstr ""
+
+#: campus-directory/includes/forms.php:147
+msgid "Last Name is required"
+msgstr ""
+
+#: campus-directory/includes/forms.php:167
+#: campus-directory/includes/forms.php:260
+#: campus-directory/includes/forms.php:296
+#: campus-directory/includes/forms.php:332
+msgid "Please Select"
+msgstr ""
+
+#: campus-directory/includes/forms.php:181
+msgid "Person Type is required"
+msgstr ""
+
+#: campus-directory/includes/forms.php:209
+msgid "Office is required"
+msgstr ""
+
+#: campus-directory/includes/forms.php:234
+msgid "Email: Please enter a valid email address"
+msgstr ""
+
+#: campus-directory/includes/forms.php:241
+msgid "Email is required"
+msgstr ""
+
+#: campus-directory/includes/forms.php:277
+msgid "Academic Area is required!"
+msgstr ""
+
+#: campus-directory/includes/forms.php:313
+msgid "Research Area is required!"
+msgstr ""
+
+#: campus-directory/includes/forms.php:349
+msgid "Directory Tag is required!"
+msgstr ""
+
+#: campus-directory/includes/forms.php:370
+msgid " is required"
+msgstr ""
+
+#: campus-directory/includes/forms.php:381
+msgid "Please enter the characters with black color."
+msgstr ""
+
+#: campus-directory/includes/forms.php:383
+msgid "Code"
+msgstr ""
+
+#: campus-directory/includes/forms.php:388
+msgid "Captcha is required"
+msgstr ""
+
+#: campus-directory/includes/forms.php:392
+msgid "Characters from captcha image entered incorrectly!"
+msgstr ""
+
+#: campus-directory/includes/forms.php:396
+msgid "Search"
+msgstr ""
+
+#: campus-directory/includes/login-register-functions.php:72
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:54
+msgid "Please help us improve Campus Directory"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:56
+msgid "Allow eMDPlugins to collect your usage of Campus Directory. This will help you to get a better, more compatible plugin in the future."
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:57
+msgid "If you skip this, that's okay! Campus Directory will still work just fine."
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:60
+msgid "%sDo not allow%s"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:61
+msgid "%sAllow%s"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:66
+msgid "What permissions are being granted?"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:67
+msgid "Your Profile Overview"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:67
+msgid "Name and email address"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:68
+msgid "Your Site Overview"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:68
+msgid "Site URL, WP version and PHP info"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:69
+msgid "Newsletter"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:69
+msgid "Updates, announcements, marketing, no spam"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:118
+msgid "Hi, I noticed you just crossed the %d %s milestone on Campus Directory - that's awesome!"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:120
+msgid "Hi, I just noticed you have been using Campus Directory for about a week now - that's awesome!"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:122
+msgid "Could you please do me a <span style=\"color:red\" class=\"dashicons dashicons-heart\"></span> BIG favor <span style=\"color:red\" class=\"dashicons dashicons-heart\"></span> and give it a 5-star rating on WordPress? Just to help us spread the word and boost our motivation."
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:123
+msgid "Would you like to upgrade now to get more out of your %s?"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:129
+msgid "Ok, you deserve it"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:131
+msgid "I already did"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:132
+#: campus-directory/includes/plugin-feedback-functions.php:135
+msgid "Maybe later"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:133
+msgid "I want to upgrade"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:154
+msgid "Docs"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:155
+msgid "Pro Version"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:192
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:193
+msgid "Submit & Deactivate"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:194
+msgid "Skip & Deactivate"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:195
+msgid "Cancel"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:196
+msgid "Please share the reason so we can improve"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:199
+msgid "I no longer need the plugin"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:200
+msgid "I only needed the plugin for a short period"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:201
+msgid "The plugin update did not work as expected"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:202
+msgid "The plugin suddenly stopped working"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:203
+#: campus-directory/includes/plugin-feedback-functions.php:210
+msgid "I found a better plugin"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:205
+msgid "I couldn't understand how to make it work"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:206
+msgid "The plugin is not working"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:207
+msgid "It's not what I was looking for"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:208
+msgid "The plugin didn't work as expected"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:209
+msgid "The plugin is great, but I need a specific feature that is not currently supported"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:219
+msgid "It's a temporary deactivation. I'm just debugging an issue"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:220
+msgid "Other"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:221
+msgid "No private information is sent during your submission. Thank you very much for your help improving our plugin."
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:241
+msgid "Please share the plugin name"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:245
+msgid "Please share the feature that you were looking for so that we can develop it in the future releases"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:249
+msgid "We are sorry to hear that. Please share your previous version number before update, new updated version number and what happened"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:253
+msgid "We are sorry to hear that. Please share what happened"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:257
+msgid "Please share what didn't work so we can fix it in the future releases"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:261
+msgid "Please share what you were looking for"
+msgstr ""
+
+#: campus-directory/includes/plugin-feedback-functions.php:265
+msgid "Please share what you expected"
+msgstr ""
+
+#: campus-directory/includes/scripts.php:59
+#: campus-directory/includes/scripts.php:123
+msgid "Please enter a unique value."
+msgstr ""
+
+#: campus-directory/includes/scripts.php:60
+msgid "required"
+msgstr ""
+
+#: campus-directory/includes/scripts.php:76
+msgid "Taxonomy"
+msgstr ""
+
+#: campus-directory/includes/scripts.php:107
+msgid "This field is required."
+msgstr ""
+
+#: campus-directory/includes/scripts.php:108
+msgid "Please fix this field."
+msgstr ""
+
+#: campus-directory/includes/scripts.php:109
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: campus-directory/includes/scripts.php:110
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: campus-directory/includes/scripts.php:111
+msgid "Please enter a valid date."
+msgstr ""
+
+#: campus-directory/includes/scripts.php:112
+msgid "Please enter a valid date ( ISO )"
+msgstr ""
+
+#: campus-directory/includes/scripts.php:113
+msgid "Please enter a valid number."
+msgstr ""
+
+#: campus-directory/includes/scripts.php:114
+msgid "Please enter only digits."
+msgstr ""
+
+#: campus-directory/includes/scripts.php:115
+msgid "Please enter a valid credit card number."
+msgstr ""
+
+#: campus-directory/includes/scripts.php:116
+msgid "Please enter the same value again."
+msgstr ""
+
+#: campus-directory/includes/scripts.php:117
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: campus-directory/includes/scripts.php:118
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: campus-directory/includes/scripts.php:119
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: campus-directory/includes/scripts.php:120
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: campus-directory/includes/scripts.php:121
+msgid "Please enter a value less than or equal to {0}."
+msgstr ""
+
+#: campus-directory/includes/scripts.php:122
+msgid "Please enter a value greater than or equal to {0}."
+msgstr ""
+
+#: campus-directory/layouts/emd-archive.php:46
+msgid "<i class=\"fa fa-angle-left\"></i> Previous"
+msgstr ""
+
+#: campus-directory/layouts/emd-archive.php:48
+msgid "Next <i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: campus-directory/layouts/emd-login.php:4
+msgid "Log into Your Account"
+msgstr ""
+
+#: campus-directory/layouts/emd-login.php:6
+msgid "Username or Email"
+msgstr ""
+
+#: campus-directory/layouts/emd-login.php:10
+msgid "Password"
+msgstr ""
+
+#: campus-directory/layouts/emd-login.php:14
+msgid "Remember Me"
+msgstr ""
+
+#: campus-directory/layouts/emd-login.php:21
+msgid "Log In"
+msgstr ""
+
+#: campus-directory/layouts/emd-login.php:26
+msgid "Lost Password?"
+msgstr ""
+
+#: campus-directory/layouts/emd-login.php:31
+msgid "Register"
+msgstr ""
+
+#: campus-directory/layouts/emd-register.php:6
+msgid "Username"
+msgstr ""
+
+#: campus-directory/layouts/emd-register.php:26
+msgid "Confirm Password"
+msgstr ""
+
+#: campus-directory/layouts/emd-register.php:39
+msgid "Login"
+msgstr ""
+
+#: campus-directory/layouts/emd-single.php:43
+msgctxt "Previous post link"
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: campus-directory/layouts/emd-single.php:44
+msgctxt "Next post link"
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: campus-directory/layouts/shc-search-people-header.php:5
+msgid "Name"
+msgstr ""
+
+#: campus-directory/layouts/shc-search-people-header.php:10
+msgid "Type"
+msgstr ""
+
+#: campus-directory/layouts/single-emd-person.php:72
+msgid "Background"
+msgstr ""
+
+#: campus-directory/layouts/single-emd-person.php:73
+msgid "Details"
+msgstr ""
+
+#: campus-directory/layouts/single-emd-person.php:172
+#: campus-directory/layouts/single-emd-person.php:183
+msgid "Click for more info"
+msgstr ""

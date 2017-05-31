@@ -1,0 +1,43 @@
+.so-widget-ink-person-person-20f3380dc014 .iw-so-person .iw-so-person-img img {
+  border-radius: 3%;
+}
+.so-widget-ink-person-person-20f3380dc014 .iw-so-person .iw-so-person-img .iw-so-person-ol {
+  background: rgba(221,153,51,0.2);
+  border-radius: 3%;
+  -webkit-transition: .3s opacity linear;
+  -moz-transition: .3s opacity linear;
+  -o-transition: .3s opacity linear;
+  transition: .3s opacity linear;
+}
+.so-widget-ink-person-person-20f3380dc014 .iw-so-person .iw-so-person-img .iw-so-person-ol p {
+  -webkit-transition: .3s opacity linear;
+  -moz-transition: .3s opacity linear;
+  -o-transition: .3s opacity linear;
+  transition: .3s opacity linear;
+}
+.so-widget-ink-person-person-20f3380dc014 .iw-so-person .iw-so-person-content {
+  background: transparent;
+  padding-top: 0px;
+}
+.so-widget-ink-person-person-20f3380dc014 .iw-so-person .iw-so-person-content .iw-so-person-name {
+  font-size: 1.25em;
+  font-weight: bold;
+  color: #666;
+}
+.so-widget-ink-person-person-20f3380dc014 .iw-so-person .iw-so-person-content .iw-so-person-desig {
+  font-size: 0.9em;
+  font-weight: lighter;
+  font-style: italic;
+  letter-spacing: 2px;
+  color: #aaa;
+}
+.so-widget-ink-person-person-20f3380dc014 .iw-so-person .iw-so-person-about {
+  color: #333;
+}
+.so-widget-ink-person-person-20f3380dc014 .iw-so-person .iw-so-person-profiles [class^="sow-icon-"] {
+  color: #ccc;
+}
+.so-widget-ink-person-person-20f3380dc014 .iw-so-person .iw-so-person-profiles [class^="sow-icon-"]:hover,
+.so-widget-ink-person-person-20f3380dc014 .iw-so-person .iw-so-person-profiles [class^="sow-icon-"]:focus {
+  color: #333;
+}

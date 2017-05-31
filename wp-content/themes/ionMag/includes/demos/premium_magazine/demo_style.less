@@ -1,0 +1,43 @@
+@import "../../less_files/variables.less";
+@import "../../less_files/mixin.less";
+
+/* Premium demo */
+.td-ionmag-premium-magazine {
+
+  .block-title {
+    text-align: center;
+    float: none;
+
+    &:after {
+      right: 0;
+      margin: auto;
+      height: 2px;
+      opacity: 0.7;
+    }
+  }
+
+  .entry-title:after {
+    height: 2px;
+    opacity: 0.4;
+  }
+
+  .td-related-title .td-cur-simple-item:after,
+  .td-comments-title-wrap h4:after, .comment-reply-title:after,
+  .td-category-header .entry-title:after,
+  .td_block_author .td-author-name:after,
+  .td-author-header .entry-title:after,
+  .td-author-name:after {
+    height: 2px !important;
+  }
+
+  .td-post-template-rd-13 .entry-title,
+  .td_module_rd_6 .entry-title,
+  .td_module_rd_12 .entry-title,
+  .td_module_rd_13 .entry-title,
+  .td_module_mx_rd_bl_3 .entry-title,
+  .td_module_mx_rd_bl_2 .entry-title {
+    text-transform: uppercase;
+  }
+
+
+}
